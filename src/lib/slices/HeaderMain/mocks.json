@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"label": {
+				"__TYPE__": "FieldContent",
+				"value": "east",
+				"type": "Text"
+			},
+			"merrd": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Anim officia adipisicing et culpa qui reprehenderit nisi. Et nostrud qui reprehenderit eiusmod sunt est deserunt quis enim."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
